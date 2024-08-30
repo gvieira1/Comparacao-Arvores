@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1722969575 source:c:\users\gv\desktop\projetoarvores\arvores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<sys/time.h>
+	"arvores.h"
+
+1722968904 source:c:\users\gv\desktop\projetoarvores\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<sys/time.h>
+	<locale.h>
+	"arvores.h"
+
+1722969240 c:\users\gv\desktop\projetoarvores\arvores.h
+
